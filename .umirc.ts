@@ -19,6 +19,6 @@ export default defineConfig({
     ],
   ],
   dynamicImport: {},
-  publicPath: '/formily-form/', // 设置静态文件路径
+//   publicPath: '/formily-form/', // 设置静态文件路径
   history: { type: 'hash' },
 });
